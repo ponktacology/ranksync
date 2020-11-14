@@ -1,0 +1,7 @@
+name: RankSync
+version: ${project.version}
+main: me.ponktacology.ranksync.RankSync
+depend:
+  - Chronium
+commands:
+  sync:
